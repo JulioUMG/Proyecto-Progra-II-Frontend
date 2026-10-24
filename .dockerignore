@@ -1,0 +1,10 @@
+.git
+.github
+node_modules
+dist
+.vscode
+.env
+.env.*
+*.sql
+*.pem
+*.key
